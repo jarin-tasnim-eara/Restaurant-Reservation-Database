@@ -1,9 +1,9 @@
 # Restaurant-Reservation-Database
-Overview
+#Overview
 
 A relational database designed to manage restaurant reservations, customers, tables, menus, and orders.
 
-Features
+#Features
 Reservation and table management
 Customer data handling
 Menu and order tracking
